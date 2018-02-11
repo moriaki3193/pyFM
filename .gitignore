@@ -1,3 +1,6 @@
+# package-specific setting
+pyfm_fast.c  # made by Cython
+
 # Mac OS specific
 .DS_Store
 
