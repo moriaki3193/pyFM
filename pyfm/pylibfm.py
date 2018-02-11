@@ -1,6 +1,6 @@
 import numpy as np
 from sklearn.model_selection import train_test_split as tt_split
-from constants import LEARNING_RATE_TYPES, TASKS
+from .constants import LEARNING_RATE_TYPES, TASKS
 from pyfm_fast import FM_fast, CSRDataset
 
 
